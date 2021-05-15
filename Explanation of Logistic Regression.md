@@ -6,7 +6,7 @@ This assignment is about using **Logistic Regression**, it's a classification al
 
 Linear Regression is a 'Prediction Algorithm',in predictions we can have negatives but in the case classification, it does not make any sense. It will not be appropriate for binary classification. To solve this problem the mathematicians came up with an Idea which we'll see in the latter part.
 
-Before seeing the explanation of the assignmnet, I would like to give a brief insight into **Logistic Regression** so that you can understand it with ease.
+Before seeing the explanation of the assignment, I would like to give a brief insight into **Logistic Regression** so that you can understand it with ease.
 
 ## Logistic Regression
 
