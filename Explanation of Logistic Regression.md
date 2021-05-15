@@ -65,7 +65,7 @@ We are importing `LogisticRegression` from `sklearn.linear_model`.Then, create a
 
    ##### Sigmoid or Logistc Function
 
-   ![image](https://user-images.githubusercontent.com/78351203/118348771-19444f00-b56a-11eb-836e-46e697fd7848.png) is the linear regression model. This value is substituted in the place of 'z', by this linear regression is converted into logistc regression.
+   ![image](https://user-images.githubusercontent.com/78351203/118348771-19444f00-b56a-11eb-836e-46e697fd7848.png) is the linear regression model. This value is substituted in the place of 'z', by this linear regression is converted into logistic regression.
 
    ![image](https://user-images.githubusercontent.com/78351203/118348651-6ffd5900-b569-11eb-9eeb-fb2c3b7c3f36.png)
    
@@ -75,7 +75,7 @@ We are importing `LogisticRegression` from `sklearn.linear_model`.Then, create a
 
 ##### Prediction and Evaluation
 
-After the model is trained, it's time for prediction and evaluation. Prediciton is done using the method `LogisitcRegression.predict()` . Using Confusion Matrix and Classification Report, the metrics like _precision, recall, accuracy, f1-score_ are calculated. With the help of these metrics, we can get a good grasp of our model, how it's performing, whether it's a high recall or high precision model.
+After the model is trained, it's time for prediction and evaluation. Prediction is done using the method `LogisitcRegression.predict()` . Using Confusion Matrix and Classification Report, the metrics like _precision, recall, accuracy, f1-score_ are calculated. With the help of these metrics, we can get a good grasp of our model, how it's performing, whether it's a high recall or high precision model.
 
 This is a simple explanation of the assignment. Hope you understood!
 
