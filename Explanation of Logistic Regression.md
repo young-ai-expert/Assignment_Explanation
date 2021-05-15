@@ -56,6 +56,9 @@ We are importing `LogisticRegression` from `sklearn.linear_model`.Then, create a
    ##### Logisitc curve
 
    ![Logisitc curve](https://user-images.githubusercontent.com/78351203/118348479-455ed080-b568-11eb-9ab6-b40a5314a7df.png)
+   
+   _Source : https://saedsayad.com/_
+
 
 
    This curve or cap will restrict the datapoints in between 0 and 1 . This will make the classification smooth.This is the Idea mathematicians came up with.
@@ -65,6 +68,9 @@ We are importing `LogisticRegression` from `sklearn.linear_model`.Then, create a
    ![image](https://user-images.githubusercontent.com/78351203/118348771-19444f00-b56a-11eb-836e-46e697fd7848.png) is the linear regression model. This value is substituted in the place of 'z',by this linear regression is converted into logisitc regression.
 
    ![image](https://user-images.githubusercontent.com/78351203/118348651-6ffd5900-b569-11eb-9eeb-fb2c3b7c3f36.png)
+   
+   _Source : https://saedsayad.com/_
+
 
 
 ##### Prediction and Evaluation
@@ -73,4 +79,3 @@ After the model is trained ,it's time for prediciton and evaluation . Prediciton
 
 This is the simple explanation of the assignment . Hope you understood !
 
-_Source : https://saedsayad.com/_
