@@ -1,6 +1,6 @@
 # Explanation of Logistic Regression
 
-This assignment is about using **Logistic Regression**, it's a classification algorithm. We use _Logistic Regression_ in this assignment to find out _**whether or not a particular internet user clicked on an Advertisement**_. To see the project [click here](https://github.com/young-ai-expert/Assignment_Explanation/blob/main/Logistic_Regression_Assignment.ipynb).
+This assignment is about using **Logistic Regression** , it's a classification algorithm. We use _Logistic Regression_ in this assignment to find out _**whether or not a particular internet user clicked on an Advertisement**_. To see the project [click here](https://github.com/young-ai-expert/Assignment_Explanation/blob/main/Logistic_Regression_Assignment.ipynb).
 
 ## Why Linear Regression is not used for classification ??
 
