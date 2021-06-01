@@ -24,8 +24,8 @@
 
   I am using `pairplot` to know the data's scatteredness and see how many clusters are formed or can be formed. This is also used to choose the features to train the model.
   
- ![image.png](attachment:image.png)
- 
+![image](https://user-images.githubusercontent.com/78351203/120265440-ba970900-c2bd-11eb-9ef4-77c5ce7fe2a3.png)
+ 
  From here we can interpret that Annual Income and Spending Score are forming clusters.
  
 ##### Training data
@@ -77,7 +77,7 @@
 
 `plt.scatter(dataset['Annual Income (k)'],dataset['Spending Score (1-100)'],c = label)`
 
-![image-2.png](attachment:image-2.png)
+![image](https://user-images.githubusercontent.com/78351203/120265463-c387da80-c2bd-11eb-91d8-d753999a991b.png)
 
 
 This is a very simple project. The conclusion depends on the problem statement. The important thing to remember is **there is no ideal epsilon value or min_samples**.
