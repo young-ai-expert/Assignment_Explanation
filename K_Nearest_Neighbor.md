@@ -66,7 +66,7 @@ The Evaluation Part
 
 `print(classification_report(ytest,prediction))`<br>
 
-** You Might Think, How to choose a perfect K value? It's simple, with some PYTHON skills we can choose**
+**You Might Think, How to choose a perfect K value? It's simple, with some PYTHON skills we can choose**
 
 ###### Choosing K value 
 
